@@ -255,6 +255,11 @@ nav ul li a {
     opacity: 1;
 }
 
+.img-container:hover {
+    border: 3px solid var(--primary-magenta);
+    border-radius: 18px;
+}
+
 .hover-img {
     display: block;
     width: 100%;
